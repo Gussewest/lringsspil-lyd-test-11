@@ -1,5 +1,6 @@
 {
     "name": "Læringsspil lyd test 1.1",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
